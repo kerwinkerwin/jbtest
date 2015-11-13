@@ -13,15 +13,6 @@ body {
 body {
     font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
 }
-.logo{
-   width:25px;
-   height: 25px;
-   position: relative;
-   float: left;
- }
- .brand{
-   color:
- }
 hr {
     max-width: 50px;
     border-color: #f05f40;
@@ -63,6 +54,11 @@ p {
     line-height: 1.5;
 }
 
+.bio-image{
+  border-radius: 80%;
+  width: 200px;
+  height:200px;
+}
 .bg-primary {
     background-color: #f05f40;
 }
