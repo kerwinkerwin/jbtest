@@ -40,6 +40,10 @@ a:hover,
 a:focus {
     color: #eb3812;
 }
+.normal-link,
+.normal-link:hover{
+  color:white;
+}
 
 
 
