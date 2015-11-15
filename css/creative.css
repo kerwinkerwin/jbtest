@@ -32,6 +32,9 @@ a {
 .EDA{
   color:white;
 }
+.funstuff{
+  color: #f05f40;
+}
 a:hover,
 a:focus {
     color: #eb3812;
