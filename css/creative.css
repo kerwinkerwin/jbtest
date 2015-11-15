@@ -34,6 +34,7 @@ a {
 }
 .funstuff{
   color: #f05f40;
+  margin: 0 auto;
 }
 a:hover,
 a:focus {
